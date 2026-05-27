@@ -14,5 +14,5 @@ full-stack AI applications.
 **Stack:** Python · PyTorch · FastAPI · React · PostgreSQL · Docker · 
 Kubernetes · AWS · LangChain
 
-📄 [CV](#) | 🔗 [LinkedIn](https://linkedin.com/in/catalina-tan) | 
+🔗 [LinkedIn](https://linkedin.com/in/catalina-tan) | 
 📧 catalina.angelia@gmail.com
